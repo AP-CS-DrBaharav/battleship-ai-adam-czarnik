@@ -45,6 +45,8 @@ public class Game {
     
     
     
+    // This is the all important Game Loop.
+    
     public void play(boolean loopMode)
     {
         
